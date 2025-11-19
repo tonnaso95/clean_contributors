@@ -143,12 +143,11 @@ coordiatore e tutor
 coordiatore del dottorando
 coorfinatore
 coordinatoredel dottorato
-coordinatore del DRPPT
+coordinatore del drppt
 addottoranda
 addottorando
 dottorndo
 coordinetore
-addottorando
 doctorande
 coordinbatore
 coordinartore
@@ -170,7 +169,6 @@ co-tutors
 coiordinatore
 turore
 professorial advisor
-coiordinatore
 co-oridinator of the research doctorate course
 kandidata
 dottoranda
@@ -203,16 +201,14 @@ coordinatore del dottorato
 coordinatore del collegiop dei docenti
 coordinatore del collegio dei docenti
 coordinatore e tutore
-coordinatore del dottorato
 il relatore
 il candidato
 coordinatore del colllegio dei docenti
 coordinatored del collegio dei docenti
-coordinatoredel dottorato
-Référee
+référee
 coodinador del doctorado
 commisione giudicatrice
-direttore Istituto di igiene
+direttore istituto di igiene
 tutoraggio
 dottrando
 coordinatore del dottorato in demografia
@@ -220,8 +216,8 @@ coordinatore del collegio dei dovcenti
 ph. d. philosophiae doctor thesis
 coordinatore del dottorao
 cooirdinatore
-tutor SUN
-tutor UVSQY
+tutor sun
+tutor uvsqy
 superviseurs
 candidat
 committee in charge
@@ -234,13 +230,12 @@ reporters
 international rewiers
 tutote
 il coordinatore del dottorato
-Cotutores
+cotutores
 coordinattore
 coordinatore del dottorarto
 dottotando
 camdidato
 coordiantor
-coordiantore
 coordiantore d'indirizzo
 coordiantore del collegio dei docenti
 il coordiantore del dottorato
@@ -250,7 +245,6 @@ cosupervisori
 tutoree coordinatore
 il coordinatore
 coortdinator
-coortdinatore
 reelatore
 esaminatore esterno
 begutachtet von
@@ -267,59 +261,47 @@ coordinator of the ph. d. programin energetics
 docente affidatario
 coordinmatore
 correltrice
-tutor non afferenti all'ateneo
 coordinatore dottorato
 docente di supporto
 ricercatore di supporto
 ricercatore guida
-coordinatore del dottorato
 docente di riferimento
 candidato
-docente di riferimento
 docenti di riferimento
-Commissione di dottorato
-Membri commissione
-Altri Membri Della Commissione
-Commissione esterna
-Commissione d'esame
-Commissione esame finale
-Commissione Di Tesi
-membri della commissione esterni
-Commissione esaminatrice alla difesa della tesi (Viva committee)
-Commissione
-commissione
-Commissione giudicatrice (esterna)
-davanti alla commissione
+commissione di dottorato
+membri commissione
+altri membri della commissione
+commissione esterna
 commissione d'esame
+commissione esame finale
+commissione di tesi
+membri della commissione esterni
+commissione esaminatrice alla difesa della tesi (viva committee)
+commissione
+commissione giudicatrice (esterna)
+davanti alla commissione
 commissione giudicatrice
 presidente della commissione/président du jury
 commissione della tesi
 membro della commissione
-Direttori Di Ricerca
+direttori di ricerca
 advisor
-Ext. Reviewers
-La Commissione
-commissione giudicatrice
+ext. reviewers
+la commissione
 coordinatrice della commissione di dottorato
 commisssione
 sede consorziata
 docenti di supporto
-docente di supporto
-ricercatore di supporto
-discussant
 presentata da
 direttore della formazione dottorale
 coordinatore del colleggio dei docenti
 sede dipartimentale di riferimento
-Sede Amministrativa
-In testa al front.
-discussant
+sede amministrativa
+in testa al front.
 consorzio interuniversitario
 ph. d. coordinator
 ph. d. student
 coordinatore del ciclo
-commissione
 contributors
-supervisore al École polytechinique fédérale de Lausanne
-supervisore al Università degli studi della Calabria
-coordinatore del dottorato
+supervisore al école polytechinique fédérale de lausanne
+supervisore al università degli studi della calabria
