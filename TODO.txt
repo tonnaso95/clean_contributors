@@ -7,3 +7,26 @@ centro (?)
 
 
 la parola "consorziate" compare 251 presenze in DIRTY_dataset_dottori_di_ricerca_only_contributions.json -> non so se c'è qualche ruolo che la utilizza
+
+
+
+search for pathological cases with these words:
+    biopatologia
+    epistemologici
+    elettrochimica
+    demografiche
+    metallurgia
+    biophysical
+    petrologia
+    metamorfiche
+    vulcanologia
+    consociata
+    istei
+
+
+
+- Fase iniziale di pulizia di tutti i caratteri speciali che non siano ";" e ":" (attenzione a non eliminare apostrofi e virgole)
+    posso elimnare "_" e "-" ?
+
+- Dopo aver separati i campi in ruoli e persone -> se il ruolo non è presente nel .csv di riferimento
+    ritorna la colonna originale e [RUOLO NON PRESENTE] nella cella del file excel di output
