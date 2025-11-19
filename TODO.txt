@@ -1,0 +1,9 @@
+is univeristà, university, université always the last field in contributors?
+dipartimento
+agenzia
+istituto
+centro (?)
+
+
+
+la parola "consorziate" compare 251 presenze in DIRTY_dataset_dottori_di_ricerca_only_contributions.json -> non so se c'è qualche ruolo che la utilizza
