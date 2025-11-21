@@ -21,14 +21,17 @@ def extract_fields(input_file, output_file):
 
     print(f"Processing {len(data)} records...")
 
-    # Extract only 'id' and 'contributors' fields
-    cleaned_data = [
-        {
+    # Extract 'id', 'contributors', and 'contributors_original' (if present) fields
+    cleaned_data = []
+    for item in data:
+        record = {
             'id': item.get('id'),
             'contributors': item.get('contributors')
         }
-        for item in data
-    ]
+        # Add contributors_original only if it exists in the item
+        if 'contributors_original' in item:
+            record['contributors_original'] = item.get('contributors_original')
+        cleaned_data.append(record)
 
     # Write the cleaned data to the output file
     print(f"Writing to {output_file}...")
@@ -38,7 +41,7 @@ def extract_fields(input_file, output_file):
     print(f"Done! Created {output_file} with {len(cleaned_data)} records.")
 
 if __name__ == "__main__":
-    input_file = "DIRTY_dataset_dottori_di_ricerca.json"
-    output_file = "clean_dataset_contributors.json"
+    input_file = "output/CLEAN_dataset_dottori_di_ricerca.json"
+    output_file = "output/CLEAN_contributors.json"
 
     extract_fields(input_file, output_file)

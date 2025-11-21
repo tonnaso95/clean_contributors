@@ -25,7 +25,7 @@ search for pathological cases with these words:
 
 
 
-- Fase iniziale di pulizia di tutti i caratteri speciali che non siano ";" e ":" (attenzione a non eliminare apostrofi e virgole)
+- Fase iniziale di pulizia di tutti i caratteri speciali che non siano ";" e ":" (attenzione a non eliminare apostrofi, virgole, punti)
     posso elimnare "_" e "-" ?
 
 - Dopo aver separati i campi in ruoli e persone -> se il ruolo non è presente nel .csv di riferimento

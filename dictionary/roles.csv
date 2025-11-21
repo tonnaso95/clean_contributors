@@ -1,0 +1,2343 @@
+role,normalized_role
+(co-) internal supervisor,internal supervisor
+(co-direction),program director
+(co-tutor),co-tutor
+(internal advisor,advisor
+1. relatore,supervisor
+1. reviewer,reviewer
+1. supervisor,supervisor
+1. supervisore,supervisor
+1. tutor,tutor
+1. tutore,tutor
+1st reader,referee
+1st. supervisor,supervisor
+1° cotutor,tutor
+1° relatore,supervisor
+1° tutor,tutor
+2. relatore,supervisor
+2. reviewer,referee
+2. supervisor,supervisor
+2. supervisore,supervisor
+2. tutor,tutor
+2. tutore,tutor
+2nd reader,referee
+2nd. supervisor,supervisor
+2° cotur,contributor
+2° relatore,supervisor
+2° tutor,tutor
+3. relatore,supervisor
+[1. reviewer,referee
+[advisor,advisor
+[advisor and supervisor,supervisor
+[advisors,advisor
+[author,candidate
+[chairperson,program director
+[co-advisors,co-advisor
+[co-ordinator,coordinator
+[co-relatore,supervisor
+[co-tutor,co-tutor
+[co-tutors,co-tutor
+[contro-relatore,supervisor
+[controrelatore,co-examiner
+[coord.,coordinator
+[coordinator,coordinator
+[coordinator of ph. d. course,coordinator
+[coordinator of ph.d. course,coordinator
+[coordinatore,coordinator
+[coordinatore del ciclo,coordinator
+[coordinatore del corso,coordinator
+[coordinatore del corso di dottorato,coordinator
+[coordinatore del corso di dottorato di ricerca,coordinator
+[coordinatore del corso di dottorato di ricerca in ingegneria idraulica,coordinator
+[coordinatore del corso di dottorato in ingegneria idraulica,coordinator
+[coordinatore del dottorato,coordinator
+[coordinatore del dottorato di ricerca,coordinator
+[coordinatore del dottorato di ricerca in ingegneria del territorio,coordinator
+[coordinatore del drppt,coordinator
+[coordinatore della scuola di dottorato di ricerca,coordinator
+[coordinatrice del dottorato,coordinator
+[correlatore,co-supervisor
+[correlatore esterno,co-supervisor
+[cotutor,co-tutor
+[directeur] de thèse,program director
+[director,program director
+[direttore della ricerca,research director
+[direttore della scuola,program director
+[direttore e coordinatore,coordinator
+[docente guida,supervisor
+[ext. reviewers,referee
+[external reviewers,external referee
+[i coordinatori,coordinator
+[i tutors,tutor
+[il coordinatore,coordinator
+[il coordinatore del dottorato,coordinator
+[il coordinatore del dottorato di ricerca,coordinator
+[il coordinatore del dottorato di ricerca tecnologie dell'informazione,coordinator
+[il relatore,supervisor
+[il tutor,tutor
+[ph d. coordinator,coordinator
+[ph. d student,phd student
+[ph. d. coordinator,coordinator
+[ph. d. tutor,tutor
+[principal advisor,advisor
+[rapporteur],referee
+[referee,referee
+[relatore,supervisor
+[relatore della ricerca,supervisor
+[relatore di tesi,supervisor
+[relatore i. e. coordinatore,coordinator
+[relatore/tutore,tutor
+[relatori,supervisor
+[research supervisor,supervisor
+[reviewed by,referee
+[reviewer,referee
+[reviewers,referee
+[sede amministrativa,institution
+[sedi consorziate,institution
+[supervisor,supervisor
+[supervisore,supervisor
+[supervisore esterno,external supervisor
+[supervisori],supervisor
+[supervisors,supervisor
+[thesis advisor,advisor
+[thesis reviewer,referee
+[thesis supervisor,supervisor
+[thesis supervisors,supervisor
+[tutor,tutor
+[tutor accademico,tutor
+[tutor aziendale,company tutor
+[tutor e coordinatore,coordinator
+[tutor/coordinatore,coordinator
+[tutor],tutor
+[tutore,tutor
+[tutori,tutor
+[tutors,tutor
+abroad supervisor,supervisor
+academic,academic
+academic adviser,advisor
+academic advisor,advisor
+academic advisors,advisor
+academic co-supervisor,co-supervisor
+academic co-tutor,co-tutor
+academic relator,supervisor
+academic supervisor,supervisor
+academic supervisors,supervisor
+academic tutor,tutor
+academic tutors,tutor
+academical tutor,tutor
+added co-supervisor,co-supervisor
+added co-supervisors,co-supervisor
+added cosupervisor,co-supervisor
+added external supervisor,external supervisor
+added supervisor,supervisor
+added supervisors,supervisor
+added tutor,tutor
+additional supervisor,supervisor
+addottoranda,phd student
+addottorando,phd student
+aded supervisor,supervisor
+adivisor,advisor
+adivors,advisor
+administrative center,institution
+administrative headquarters,institution
+administrative site,institution
+adviser,advisor
+advisers,advisor
+advisor,advisor
+advisor 1,advisor
+advisor 2,advisor
+advisor and coordinator,coordinator
+advisor and supervisor,supervisor
+advisor and tutor,tutor
+advisor at university of delaware,advisor
+advisors,advisor
+advisory committee,committee member
+affiliation,contributor
+alenia aermacchi advisor,advisor
+allieva,phd student
+allievo,phd student
+altri membri della commissione,committee member
+altro supervisore,supervisor
+applicant,contributor
+approved by,contributor
+architetto,contributor
+assessor,contributor
+assistant,assistant
+assistant supervisor,supervisor
+assistant supervisors,supervisor
+associate advisor,advisor
+author,candidate
+autore,candidate
+avisor,advisor
+bajo la direccion de,director
+begutachtet von,reviewer
+berichter,reporter
+betreuer,contributor
+"betreurin,betreuer/tutors",tutor
+board of examiner,examiner
+board of examiners,examiner
+c-relatrice,supervisor
+c.m. torre. tutors esterni,external tutor
+camdidato,candidate
+candidat,candidate
+candidata,candidate
+candidate,candidate
+candidate's supervisor,supervisor
+candidate/candidat,candidate
+candidato,candidate
+candidato del corso,candidate
+candidato dottore di ricerca,candidate
+candidtat,candidate
+cattedra di immunologia,contributor
+ccoordinatore,coordinator
+ccordinatore,coordinator
+ccordinatore del collegio dei docenti,professor
+ccordinatore del corso di dottorato,contributor
+ccordinatore del programma di dottorato,contributor
+center institution,contributor
+central coordinator,coordinator
+certified by,contributor
+chair,program director
+chair of ph. d. course,program director
+chair of ph. d. program,program director
+chair of the doctoral program,program director
+chair of the ph. d. program,program director
+chair of the school,program director
+chair ph. d. program,program director
+chair ph. d. program in management engineering,program director
+chair ph.d. program in management engineering,program director
+chairman,program director
+chairman doctorate committee,program director
+chairman of ph. d. program,program director
+chairman of ph. d. programme,program director
+chairman of phd program,program director
+chairman of the doctoral course,program director
+chairman of the doctoral program,program director
+chairman of the doctoral programme,program director
+chairman of the ph. d. program,program director
+chairman of the ph.d. committee,program director
+chairman of the ph.d. committee in applied mathematics macro,program director
+chairman of the phd course,program director
+chairman of the phd program,program director
+chairperson,program director
+chairperson of supervisory commitee,supervisor
+chairperson of the ph. d. school,program director
+chairperson of the ph.d. school,program director
+chairpeson,program director
+chief,contributor
+chief of phd course,phd student
+chinese tutor,tutor
+cndidate,candidate
+cnr co-supervisor,co-supervisor
+co relatore,supervisor
+co tutor,tutor
+co- tutor,tutor
+co-adivisor,contributor
+co-adviser,advisor
+co-advisor,co-advisor
+co-advisors,co-advisor
+co-autore,candidate
+co-comissario[!] esterno,contributor
+co-directeur,program director
+co-directeur de thèse,director
+co-director of studies,co-director
+co-directora,co-director
+co-directors,co-director
+co-directrice,program director
+co-direttore,program director
+co-direttore di ricerca,research director
+co-direttore di tesi,program director
+co-direttori,program director
+co-direttori della tesi,program director
+co-direttrice de thèse,contributor
+co-direttrici,contributor
+co-direzione,contributor
+co-examiner,co-examiner
+co-ordinator,coordinator
+co-ordinator of phd course,coordinator
+co-ordinator of the doctorate,coordinator
+co-ordinator of the doctorate course,coordinator
+co-ordinator of the ph.d. course,coordinator
+co-ordinator of the reasearch doctorate course,coordinator
+co-ordinator of the research doctorate course,coordinator
+co-ordinator of the research of doctorate course,coordinator
+co-ordinatore del dottorato,coordinator
+co-ordinators,coordinator
+co-oridinator of the research doctorate course,coordinator
+co-orientador,contributor
+co-orientadores,contributor
+co-promoter,promotor
+co-promoters,promotor
+co-promotor,co-promotor
+co-promotors,co-promotor
+co-relatore,co-supervisor
+co-relatore esterno,external supervisor
+co-relatore in denso italia,supervisor
+co-relatori,supervisor
+co-relators,supervisor
+co-relatrice,co-supervisor
+co-relatrici,contributor
+co-responsabile scientifico,program director
+co-reviewers,referee
+co-superviors,contributor
+co-supervisor,co-supervisor
+co-supervisor and tutor,co-supervisor
+co-supervisor ehess,co-supervisor
+co-supervisor esterno,co-supervisor
+co-supervisor interno,co-supervisor
+co-supervisor of dissertation,co-supervisor
+co-supervisor per la comparazione,co-supervisor
+co-supervisor sum,co-supervisor
+co-supervisore,co-supervisor
+co-supervisori,co-supervisor
+co-supervisori esterni,co-supervisor
+co-supervisori interni,co-supervisor
+co-supervisors,co-supervisor
+co-supervisors (lomonosov moscow state university),co-supervisor
+co-tuor,contributor
+co-tuteurs,tutor
+co-tutor,co-tutor
+co-tutor (italy),co-tutor
+co-tutor (milan),co-tutor
+co-tutor (usa),co-tutor
+co-tutor aggiunto,co-tutor
+co-tutor del dottorando,co-tutor
+co-tutor dell'attività di ricerca,co-tutor
+co-tutor della ricerca,co-tutor
+co-tutor e coordinatore,co-tutor
+co-tutor esterni,co-tutor
+co-tutor esterno,co-tutor
+co-tutor estero,co-tutor
+co-tutor europei,co-tutor
+co-tutor interni,co-tutor
+co-tutor interno,co-tutor
+co-tutor scientifico,co-tutor
+co-tutor/co-directeur de thèse,co-tutor
+co-tutor/co-tutore,co-tutor
+co-tutor/secondo supervisore,co-tutor
+co-tutor/supervisor,co-tutor
+co-tutore,co-tutor
+co-tutore (dottorato in cotutela),co-tutor
+co-tutore = 2nd supervisor,co-tutor
+co-tutore del dottorando,co-tutor
+co-tutore del dottorato,co-tutor
+co-tutore della dottoranda,co-tutor
+co-tutore e correlatore,co-tutor
+co-tutore esterno,co-tutor
+co-tutore-correlatore,co-tutor
+co-tutore/correlatore,co-tutor
+co-tutore/relatore,co-tutor
+co-tutores,co-tutor
+co-tutori,co-tutor
+co-tutori del dottorando,co-tutor
+co-tutori della dottoranda,co-tutor
+co-tutoring,co-tutor
+co-tutors,co-tutor
+co-tutors esterni,co-tutor
+co-tutors stranieri,co-tutor
+co-tutur,co-tutor
+co-visori,contributor
+co.dir,contributor
+co.relatore,supervisor
+co.tutor,co-tutor
+coadiutore,assistant
+coadiutrice,assistant
+coadvisor,co-advisor
+coadvisors,co-advisor
+codirecteur,co-director
+codirecteur de these,co-director
+codirecteur de thèse,co-director
+codirector,co-director
+codirettore,co-director
+codirettore della ricerca,research director
+codirettore di tesi,program director
+codirettrice,co-director
+codirigée,co-director
+codocente guida,co-supervisor
+coiordinatore,coordinator
+colaborator,collaborator
+collaboratore,collaborator
+collaboratore esterno,collaborator
+collaboratori,collaborator
+collaborazione,collaborator
+comissario ! esterno,external committee member
+comissario[!] esterno,contributor
+comitato scientifico,contributor
+comitato tesi,contributor
+commentor,commentator
+commision,contributor
+commisione giudicatrice,committee
+commissari,committee member
+commissari (discussione finale),contributor
+commissari esame finale,contributor
+commissari esterni,committee member
+commissario aggiunto,committee member
+commissario esterno,committee member
+commissario interno,committee member
+commissario per l'esame finale,committee member
+commission,contributor
+commissione,committee
+commissione d'esame,exam committee
+commissione della tesi,thesis committee
+commissione di dottorato,committee
+commissione di tesi,thesis committee
+commissione esame finale,exam committee
+commissione esaminatrice alla difesa della tesi (viva committee),committee
+commissione esterna,external committee
+commissione giudicatrice,jury
+commissione giudicatrice (esterna),external jury
+commisssione,committee
+commitee in charge,contributor
+committee,committee
+committee in charge,committee
+committee member,committee member
+committee members,committee member
+company advisor,advisor
+company tutor,tutor
+componente relatore,supervisor
+composition du jury,committee member
+compromotor,co-promotor
+con la collaborazione di,contributor
+condirettore,co-director
+condirettore di ricerca,director
+condirettori,co-director
+consigliere scientifico,advisor
+consortium headquarters,consortium institution
+consorzio,institution
+consorzio interuniversitario,interuniversity consortium
+"consorzio politecnici di milano e torino, università degli studi di napoli e genova, coordinatore",coordinator
+consorzio universitario,institution
+consulente,consultant
+consulente danese,consultant
+consulente esterno,external supervisor
+consulente interno,consultant
+consulente per la storia dell'astronomia,consultant
+consulente scientifico,consultant
+consulenza scientifica,contributor
+consulenza storica,contributor
+consulting advisor,advisor
+contorelatori,co-examiner
+contributors,contributor
+contro relatore,supervisor
+contro tutore,tutor
+contro-relator,supervisor
+contro-relatore,supervisor
+contro-relatori,supervisor
+controrelatore,co-examiner
+controrelatori,co-examiner
+contutore,co-tutor
+coocrdinatore,coordinator
+coodinador del doctorado,coordinator
+coodinator,contributor
+coodinatore,coordinator
+coodinatore d'indirizzo,contributor
+coodinatore del corso,contributor
+cooedinatore,coordinator
+cooirdinatore,coordinator
+cooordinator,coordinator
+cooordinatore,coordinator
+cooordinatore del ciclo,contributor
+cooordinatore del ciclo e relatore,supervisor
+cooordinatore del dottorato,contributor
+cooordinatore del programma di dottorato,contributor
+coord.,coordinator
+coord. del ciclo,coordinator
+coord. del corso di dottorato,contributor
+coord. del dottorato,coordinator
+coord. dottorato,coordinator
+coord.re,coordinator
+coordiantor,coordinator
+coordiantore,coordinator
+coordiantore d'indirizzo,coordinator
+coordiantore del collegio dei docenti,faculty board coordinator
+coordiatore,coordinator
+coordiatore del dottorando,coordinator
+coordiatore e tutor,coordinator and tutor
+coordimator,coordinator
+coordinador del doctorado,phd coordinator
+coordinador del doctorat,coordinator
+coordinador programa doctorado,coordinator
+coordinadora,coordinator
+coordinadora del programa,coordinator
+coordinamento ciclo,contributor
+coordinamento del ciclo,contributor
+coordinamento del dottorato,contributor
+coordinaore,coordinator
+coordinaorte,coordinator
+coordinaorte d'indirizzo,contributor
+coordinarore,coordinator
+coordinarore del ciclo,coordinator
+coordinartore,coordinator
+coordinater,coordinator
+coordinateur du doctorat,coordinator
+coordinatoe,coordinator
+coordinator,coordinator
+coordinator and advisor,coordinator
+coordinator and supervisor,coordinator
+coordinator and tutor,coordinator
+coordinator for industrial innovation engineering,coordinator
+coordinator naples site,coordinator
+coordinator of doctoral program,coordinator
+coordinator of doctoral studies,coordinator
+coordinator of doctorate course,coordinator
+coordinator of ph. d. course,coordinator
+coordinator of ph.d. course,coordinator
+coordinator of ph.d.course,coordinator
+coordinator of phd course,coordinator
+coordinator of phd course in chemistry (xxx cycle),coordinator
+coordinator of phd program,coordinator
+coordinator of phd program in physics,coordinator
+coordinator of phd programme,coordinator
+coordinator of phd research itac in politecnico di torino,coordinator
+coordinator of research studies,coordinator
+coordinator of the 17. ph.d. course in civil and environmental engineering co-tutor,co-tutor
+coordinator of the committee of ph.d. studies,coordinator
+coordinator of the course,coordinator
+coordinator of the course and tutor,coordinator
+coordinator of the curriculum,coordinator
+coordinator of the doctoral course,coordinator
+coordinator of the doctoral program,coordinator
+coordinator of the doctoral programme,coordinator
+coordinator of the doctoral school in padova,coordinator
+coordinator of the doctoral school section,coordinator
+coordinator of the doctorate,coordinator
+coordinator of the doctorate course,coordinator
+coordinator of the doctorate program,coordinator
+coordinator of the international doctorate,coordinator
+coordinator of the ph. d. in economics,coordinator
+coordinator of the ph. d. program,coordinator
+coordinator of the ph. d. programin energetics,coordinator
+coordinator of the ph. d. school,coordinator
+coordinator of the ph.d. course,coordinator
+coordinator of the ph.d. program,coordinator
+coordinator of the phd course,coordinator
+coordinator of the phd course in chemistry,coordinator
+coordinator of the phd program,coordinator
+coordinator of the phd program in physics,coordinator
+coordinator of the phd school,coordinator
+coordinator of the research,coordinator
+coordinator of the research doctorate,coordinator
+coordinator of the research doctorate course,coordinator
+coordinator of the research doctorate course/coordinatore del corso di dottorato,coordinator
+coordinator of the school,coordinator
+coordinator phd program,coordinator
+coordinator research doictorate course,coordinator
+coordinator-tutor,coordinator
+coordinatore,coordinator
+coordinatore & tutor,coordinator
+coordinatore 1. ciclo,coordinator
+coordinatore 17. ciclo,coordinator
+coordinatore = coordinator,coordinator
+coordinatore a. a. 2002-2004,coordinator
+coordinatore attuale corso di dottorato,coordinator
+coordinatore centrale,coordinator
+coordinatore collegio dei docenti,coordinator
+coordinatore collegio docenti,coordinator
+coordinatore collegio docenti e relatore,coordinator
+coordinatore corso di dottorato,coordinator
+coordinatore corso dottorato,coordinator
+coordinatore d'indirizzi,coordinator
+coordinatore d'indirizzo,coordinator
+coordinatore d'indirizzo e supervisore,coordinator
+coordinatore d'indirizzo mmis,coordinator
+coordinatore d'indrizzo,coordinator
+coordinatore dal 2011-2013,coordinator
+coordinatore dal 2014,coordinator
+coordinatore de dottorato,coordinator
+coordinatore degli studi,coordinator
+coordinatore dei corsi di dottorato,coordinator
+coordinatore dei dottorati,coordinator
+coordinatore del 14. ciclo del dottorato di ricerca,coordinator
+coordinatore del 15. ciclo,coordinator
+coordinatore del 16. ciclo,coordinator
+coordinatore del 16. ciclo di dottorato di ricerca,coordinator
+coordinatore del ciclo,coordinator
+coordinatore del ciclo di dottorato,coordinator
+coordinatore del ciclo e relatore,coordinator
+coordinatore del ciclo e tutor,coordinator
+coordinatore del colleggio dei docenti,faculty board coordinator
+coordinatore del collegio,coordinator
+coordinatore del collegio dei docenti,faculty board coordinator
+coordinatore del collegio dei docenti e relatore/tutore,coordinator
+coordinatore del collegio dei docenti e tutore,coordinator
+coordinatore del collegio dei docenti relatore,coordinator
+coordinatore del collegio dei docenti tutore e relatore,coordinator
+coordinatore del collegio dei docenti tutore-relatore,coordinator
+coordinatore del collegio dei dovcenti,faculty board coordinator
+coordinatore del collegio di dottorato,coordinator
+coordinatore del collegio di dottorato e direttore del programma di ricerca,coordinator
+coordinatore del collegio docenti,coordinator
+coordinatore del collegiop dei docenti,faculty board coordinator
+coordinatore del colllegio dei docenti,faculty board coordinator
+coordinatore del corso,coordinator
+coordinatore del corso di dottorato,coordinator
+coordinatore del corso di dottorato = phd course coordinator,coordinator
+coordinatore del corso di dottorato di ricerca,coordinator
+coordinatore del corso di dottorato di ricerca in ingegneria idraulica,phd coordinator
+coordinatore del corso di dottorato e relatore,coordinator
+coordinatore del corso di dottorato e tutore dell'allievo,coordinator
+coordinatore del corso di dottorato in fisica 14. ciclo,coordinator
+coordinatore del corso di dottorato in ingegneria idraulica,phd coordinator
+coordinatore del corso di dottotato,coordinator
+coordinatore del corso di ricerca,coordinator
+coordinatore del corso e docente guida del corso di dottorato,coordinator
+coordinatore del corso e relatore,coordinator
+coordinatore del corso e tutor,coordinator
+coordinatore del corso e tutor della ricerca,coordinator
+coordinatore del corso e tutore,coordinator
+coordinatore del corsoi di dottorato,coordinator
+coordinatore del curriculum,coordinator
+coordinatore del d.r.c.a,coordinator
+coordinatore del d.r.c.a.,coordinator
+coordinatore del dipartimento,coordinator
+coordinatore del do.p.a.u.,coordinator
+coordinatore del dopau,coordinator
+coordinatore del dottorando,coordinator
+coordinatore del dottorao,coordinator
+coordinatore del dottorarto,coordinator
+coordinatore del dottorato,coordinator
+coordinatore del dottorato (vicario),coordinator
+coordinatore del dottorato 2011-2013,coordinator
+coordinatore del dottorato 2014,phd coordinator
+coordinatore del dottorato dal 2011,coordinator
+coordinatore del dottorato dal 2014,phd coordinator
+coordinatore del dottorato di architettura,coordinator
+coordinatore del dottorato di ricerca,coordinator
+coordinatore del dottorato di ricerca e referente,coordinator
+coordinatore del dottorato di ricerca in biologia cellulare,coordinator
+coordinatore del dottorato di ricerca in economia politica,coordinator
+coordinatore del dottorato di ricerca in fisica,coordinator
+coordinatore del dottorato di ricerca in geofisica,coordinator
+coordinatore del dottorato di ricerca in ingegneria civile e ambientale,phd coordinator
+coordinatore del dottorato di ricerca in ingegneria del territorio,phd coordinator
+coordinatore del dottorato di ricerca in matematica,coordinator
+coordinatore del dottorato di ricerca in pedagogia,phd coordinator
+coordinatore del dottorato di ricerca in ricerca operativa,coordinator
+coordinatore del dottorato di ricerca in storia medievale (17. ciclo),coordinator
+coordinatore del dottorato di ricerca università degli studi di trieste,phd coordinator
+coordinatore del dottorato e direttore della scuola,coordinator
+coordinatore del dottorato e direttore della scuola di dottorato,coordinator
+coordinatore del dottorato e supervisore,coordinator
+coordinatore del dottorato e tutor,coordinator
+coordinatore del dottorato e tutor del dottorato,coordinator
+coordinatore del dottorato e tutor scientifico,coordinator
+coordinatore del dottorato e tutore,coordinator
+coordinatore del dottorato e tutore scientifico,coordinator
+coordinatore del dottorato e tutore/relatore,coordinator
+coordinatore del dottorato fino al 2010,coordinator
+coordinatore del dottorato in architettura,coordinator
+coordinatore del dottorato in composizione architettonica del politecnico di milano,coordinator
+coordinatore del dottorato in demografia,coordinator
+coordinatore del dottorato in filosofia,phd coordinator
+coordinatore del dottorato in fisica,coordinator
+coordinatore del dottorato in geologia del sedimentario,coordinator
+coordinatore del dottorato in ingegneria geotecnica,coordinator
+coordinatore del dottorato in progettazione paesistica,phd coordinator
+coordinatore del dottorato in scienze della terra,coordinator
+coordinatore del dottorato in scienze giuridiche,phd coordinator
+coordinatore del dottorato in storia dell'architettura e della città,coordinator
+coordinatore del dottorato in urbanistica,coordinator
+coordinatore del dottotato,coordinator
+coordinatore del drppt,coordinator
+coordinatore del programa di dottorato,coordinator
+coordinatore del programma di dottorato,coordinator
+coordinatore del xxiii ciclo,coordinator
+coordinatore dell'indirizzo,coordinator
+coordinatore dell'indirizzo e supervisore,coordinator
+coordinatore della ricerca,coordinator
+coordinatore della scuola,coordinator
+coordinatore della scuola di dottorato,coordinator
+coordinatore della scuola di dottorato di ricerca,coordinator
+coordinatore della sezione,coordinator
+coordinatore della sezione archeologia del medioevo,coordinator
+coordinatore della sezione di archeologia del medioevo,coordinator
+coordinatore di curriculum,coordinator
+coordinatore di dottorato,coordinator
+coordinatore di indirizzo,coordinator
+coordinatore di ricerca,coordinator
+coordinatore di sede,coordinator
+coordinatore di sezione,coordinator
+coordinatore di tesi,coordinator
+coordinatore di tesi/coordinatore di dottorato,coordinator
+coordinatore didattico,coordinator
+coordinatore dip.,coordinator
+coordinatore dl ciclo,coordinator
+coordinatore dl dottorato,coordinator
+coordinatore dott.,coordinator
+coordinatore dottorato,coordinator
+coordinatore dottorato di ricerca,coordinator
+coordinatore dottorato di ricerca in ecologia,coordinator
+coordinatore dottorato di ricerca in fisica,coordinator
+coordinatore dottorato esls,coordinator
+coordinatore dottorato in economia politica,coordinator
+coordinatore dottorato putea,coordinator
+coordinatore d’indirizzo,coordinator
+coordinatore e co-tutore,co-tutor
+coordinatore e correlatore,co-supervisor
+coordinatore e correlatore del dottorato,co-supervisor
+coordinatore e cotutore,co-tutor
+coordinatore e direttore del dottorato,coordinator
+coordinatore e direttore della scuola di dottorato,coordinator
+coordinatore e direttore di ricerca,coordinator
+coordinatore e docente guida,coordinator
+coordinatore e docente tutor,coordinator
+coordinatore e relatore,coordinator
+coordinatore e supervisore,coordinator
+coordinatore e supervisore italiano,coordinator
+coordinatore e tutor,coordinator
+coordinatore e tutore,coordinator and tutor
+coordinatore e tutore del dottorato,coordinator
+coordinatore generale,coordinator
+coordinatore indirizzo,coordinator
+coordinatore italiano,coordinator
+coordinatore locale,coordinator
+coordinatore locale e tutore,coordinator
+coordinatore nasp,coordinator
+coordinatore nazionale,coordinator
+coordinatore ndel collegio dei docenti,coordinator
+coordinatore of the course,coordinator
+coordinatore per il dottorato,coordinator
+coordinatore phd,coordinator
+coordinatore phd program,coordinator
+coordinatore precedente,coordinator
+coordinatore referente del curriculum,coordinator
+coordinatore responsabile,coordinator
+coordinatore responsabile del dottorato di ricerca in scienze degli alimenti,coordinator
+coordinatore scientifico,coordinator
+coordinatore scuola di dottorato,coordinator
+coordinatore scuola dottorato,coordinator
+coordinatore tutor,coordinator
+coordinatore tutore e relatore,coordinator
+coordinatore ub,coordinator
+coordinatore unimi,coordinator
+coordinatore vicario,coordinator
+coordinatore-tutor,coordinator
+coordinatore-tutore,coordinator
+coordinatore.,coordinator
+coordinatore/direttore,coordinator
+coordinatore/ph. d. program coordinator,coordinator
+coordinatore/tutor,coordinator
+coordinatored del collegio dei docenti,faculty board coordinator
+coordinatoredel dottorato,coordinator
+coordinatori,coordinator
+coordinatori del ciclo,coordinator
+coordinatori del corso,coordinator
+coordinatori del corso di dottorato,coordinator
+coordinatori del dottorato,coordinator
+coordinatori del dottorato di ricerca,coordinator
+coordinatori delle scuole di dottorato,coordinator
+coordinatorice,coordinator
+coordinators,coordinator
+coordinators of the research doctorate courses,coordinator
+coordinatre,coordinator
+coordinatrice,coordinator
+coordinatrice al dottorato,coordinator
+coordinatrice corso di dottorato,coordinator
+coordinatrice d'indirizzo,coordinator
+coordinatrice dei corsi,coordinator
+coordinatrice del ciclo,coordinator
+coordinatrice del ciclo di dottorato,coordinator
+coordinatrice del collegio dei docenti,coordinator
+coordinatrice del collegio docenti,coordinator
+coordinatrice del corso,coordinator
+coordinatrice del corso di dottorato,coordinator
+coordinatrice del dottorato,coordinator
+coordinatrice del dottorato di ricerca,coordinator
+coordinatrice del dottorato e relatrice,coordinator
+coordinatrice del programma di dottorato,coordinator
+coordinatrice del programma di dottorato in sociologia,coordinator
+coordinatrice dell'indirizzo,coordinator
+coordinatrice della commissione di dottorato,committee coordinator
+coordinatrice di dottorato,coordinator
+coordinatrice dottorato,coordinator
+coordinatrice/tutor,coordinator
+coordinatrici,coordinator
+coordinatrici del dottorato,coordinator
+coordinattore,coordinator
+coordinbatore,coordinator
+coordinbatore del 18. ciclo,coordinator
+coordinbatore del corso di dottorato,coordinator
+coordinbatore del dottorato,coordinator
+coordinetore,coordinator
+coordinmatore,coordinator
+coordintatore,coordinator
+coordintore,coordinator
+coordnatore del dottorato,coordinator
+coordonnateur du doctorat,contributor
+coorelatore,co-supervisor
+coorfinatore,coordinator
+coorfinatore del dottorato,contributor
+coorinatore,coordinator
+coorinatore del ciclo,coordinator
+coorrelatori,co-supervisor
+coortdinator,coordinator
+coortdinatore,coordinator
+cordinator,contributor
+cordinatore,coordinator
+cordinatore corso di dottorato,contributor
+cordinatore d'indirizzo,contributor
+cordinatore del corso,contributor
+cordinatore del dottorato,contributor
+cordinatore del dottorato di ricerca,contributor
+cordinatore e tutor,tutor
+corelatore,co-supervisor
+corelatori,co-supervisor
+corelatori[!,co-supervisor
+corelatori[!],supervisor
+corporate supervisor,supervisor
+correlatoe,contributor
+correlator,co-supervisor
+correlatore,co-supervisor
+correlatore (co-tutor),co-tutor
+correlatore (tutor),co-supervisor
+correlatore 1,co-supervisor
+correlatore 2,co-supervisor
+correlatore co-tutor,co-tutor
+correlatore del dottorato,co-supervisor
+correlatore della tesi,co-supervisor
+correlatore di tesi,co-supervisor
+correlatore esterno,co-supervisor
+correlatore-cotutor,co-tutor
+correlatori,co-supervisor
+correlatori della tesi,supervisor
+correlatrice,co-supervisor
+correllatore,co-supervisor
+correltrice,co-supervisor
+cosupervisor,co-supervisor
+cosupervisor of dissertation,co-supervisor
+cosupervisor of the thesis,co-supervisor
+cosupervisore,co-supervisor
+cosupervisori,co-supervisor
+cosupervisors,co-supervisor
+cotutor,co-tutor
+cotutor esterno,co-tutor
+cotutor esterno parte spagnola,co-tutor
+cotutore,tutor
+cotutore del dottorando,co-tutor
+cotutore del dottorato,co-tutor
+cotutore della dottoranda,co-tutor
+cotutore esterno,co-tutor
+cotutores,co-tutor
+cotutori,co-tutor
+cotutori del dottorando,co-tutor
+cotutori della ricerca,co-tutor
+cotutors,co-tutor
+cotutro,contributor
+cotuture,co-tutor
+course chair,program director
+course co-ordinator,coordinator
+course coordinator,coordinator
+course coordinator and tutor,coordinator
+course director,program director
+course supervisor,supervisor
+co–tutor,tutor
+cpoordinatore,coordinator
+cpoordinatore del programma di dottorato,coordinator
+curator,curator
+curatore,curator
+curatori,curator
+curators,curator
+curatrice non afferente all'ateneo,curator not affiliated with the university
+curriculum coordinator,coordinator
+davanti alla commissione,committee
+davanti alla commissione = devant le jury composé de,committee member
+dean,contributor
+dean of ph.d school,institution
+dean of the phd program,phd student
+dean of the school,institution
+deans of doctoral schools,institution
+debater,contributor
+decano,contributor
+decano del corso di dottorato,contributor
+defence committee,committee
+defendant,contributor
+degree course coordinator,coordinator
+department of agricultural and environmental sciences,institution
+department of information engineering,institution
+devant le jury composé de,jury
+dfottorando,phd student
+dicente guida,supervisor
+dipartimento,institution
+dipartimento di ingegneria dell'informazione,institution
+dipartimento di neuroscienze direttore,program director
+dipartimento di neuroscienze e otorinolaringoiatria direttore,program director
+dircteur,contributor
+directed by,program director
+directeur de l'écol doctorale,program director
+directeur de l'école,program director
+directeur de l'école doctorale,program director
+directeur de recherche,program director
+directeur de recherche en france,program director
+directeur de recherche en italie,program director
+directeur de these,program director
+directeur de thèse,director
+directeur de thése,program director
+directeur du these,program director
+directeur en cotutelle,program director
+directeur français,program director
+directeur of studies,program director
+directeur of the doctoral school,program director
+directeur école doctorale,program director
+directeur] de thèse,contributor
+directeurs de recherche,program director
+directeurs de recherches,program director
+directeurs de these,program director
+directeurs de these-tutors,tutor
+directeurs de thèse,program director
+directeurs de thèse/direttori di ricerca,research director
+director,program director
+director and supervisor,supervisor
+director de la tesis,program director
+director de thesis,director
+director of doctoral program,program director
+director of doctoral school,program director
+director of doctoral thesis,program director
+director of graduate research,research director
+director of graduate school,program director
+director of graduate studies,program director
+director of graduated school,program director
+director of ph. d. in applied physics,program director
+director of ph. d. school,program director
+director of ph.d. course,program director
+director of ph.d. program,program director
+director of ph.d. programme,program director
+director of phd,program director
+director of phd program,program director
+director of phd school,program director
+director of school,program director
+director of studies,program director
+director of the course,program director
+director of the doctoral program,program director
+director of the doctoral programme,program director
+director of the doctoral school,program director
+director of the doctorate,program director
+director of the doctorate program,program director
+director of the doctorate school,program director
+director of the ph. d. course,program director
+director of the ph. d. program,program director
+director of the ph. d. program in energy,program director
+director of the ph. d. school,program director
+director of the ph.d course,program director
+director of the ph.d school,program director
+director of the ph.d. program,program director
+director of the phd course,program director
+director of the phd program,program director
+director of the phd school,program director
+director of the post-graduate programme,program director
+director of the research doctorate course,research director
+director of the school,program director
+director ot studies,program director
+director/coordinator,coordinator
+directora,program director
+directoras,program director
+directores,program director
+directores de la tesis,program director
+directors,program director
+directors of studies,program director
+directors of the doctoral school,program director
+directors of the doctoral schools,program director
+directors of the doctorate schools,program director
+directors of the phd program,program director
+directors of the thesis work,program director
+directors of thesis,program director
+directrice de l'école,program director
+directrice de l'école doctorale,program director
+direcxtor of the course,director
+direcyeur de thèse,director
+diretore della scuola,institution
+dirett.,contributor
+diretta da,contributor
+direttor of the school,program director
+direttore,director
+direttore associato,program director
+direttore collegio dei docenti,director
+direttore d'indirizzo,program director
+direttore del corso,program director
+direttore del corso di dottorato,program director
+direttore del corso di dottorato di ricerca,research director
+direttore del dipartimento,program director
+direttore del dottorato,program director
+direttore del dottorato di ricerca,research director
+direttore del dottorato in neuroscienze,program director
+direttore del progetto di ricerca,research director
+direttore del programma,program director
+direttore del programma di dottorato,program director
+direttore del programma di ricerca,research director
+direttore dela scuola,program director
+direttore dell'indirizzo,program director
+direttore dell'istituto d'igiene,program director
+direttore della formazione dottorale,doctoral training director
+direttore della ricerca,director
+direttore della scuola,director
+direttore della scuola del dottorato,program director
+direttore della scuola di dottorato,director
+direttore della scuola di dottorato di ricerca del 25. ciclo,research director
+direttore della scuola di dottorato di ricerca in neuroscienze e scienze endocrinometaboliche,research director
+direttore della scuola di dottorato e tutor,tutor
+direttore della scuola di dottorato ess,program director
+direttore della scuola di dottorato in informatica,program director
+direttore della scuola e coordinatore d'indirizzo,coordinator
+direttore della scuola e coordinatore di indirizzo,coordinator
+direttore della scuola e tutor,tutor
+direttore della scuola stms,program director
+direttore della tesi,program director
+direttore dells scuola,program director
+direttore di ricerca,director
+direttore di tesi,director
+direttore di tesi estero,program director
+direttore di tesi francese,program director
+direttore di tesi in francia,program director
+direttore di tesi in italia,program director
+direttore di tesi/directeur de thèse,program director
+direttore dipartimento,program director
+direttore dottorato,program director
+direttore dottorato di ricerca,research director
+direttore e coordinatore,coordinator
+direttore e coordinatore della scuola,coordinator
+direttore e coordinatore della scuola di dottorato,coordinator
+direttore e tutor,tutor
+direttore e tutore,tutor
+direttore istituto di igiene,director
+direttore programma,program director
+direttore relatore,supervisor
+direttore scientifico,program director
+direttore scientifico della ricerca,research director
+direttore scuola,program director
+direttore scuola di dottorato,program director
+direttore scuola di dottorato in neuroscienze,program director
+direttore scuola dottorato,program director
+direttore-coordinatore della scuola di dottorato,coordinator
+direttore/coordinatore,coordinator
+direttori,program director
+direttori dei dottorati,program director
+direttori della ricerca,research director
+direttori della tesi,program director
+direttori delle scuole di dottorato,program director
+direttori di ricerca,research director
+direttori di ricerca/directeurs de thèse,research director
+direttori di tesi,program director
+direttori di tesi = directeurs de thèse,program director
+direttori di tesi in austria,program director
+direttori di tesi/directeurs de thèse,program director
+direttori scientifici,program director
+direttrice,contributor
+direttrice de l'ecole doctorale,contributor
+direttrice della ricerca,contributor
+direttrice della scuola,institution
+direttrice di tesi,thesis info
+direttrici,director
+direttrici di ricerca,contributor
+direzione,contributor
+direzione della tesi,thesis info
+direzione scientifica,contributor
+dirigee,supervisor
+dirigèe,director
+dirigée par,contributor
+discussant,discussant
+dissertation advisor,advisor
+dissertation advisors,advisor
+dissertation commitee,contributor
+dissertation committee,committee
+dissertation supervisor,supervisor
+dissertation supervisors,supervisor
+docente,professor
+docente affidatario,assigned professor
+docente co-tutor,co-tutor
+docente co-tutore,co-tutor
+docente coordinatore,coordinator
+docente coordinatore corso dottorato,coordinator
+docente coordinatore del corso,coordinator
+docente correlatore,co-supervisor
+docente cotutor,co-tutor
+docente cotutore,co-tutor
+docente di riferimento,reference professor
+docente di sostegno,professor
+docente di supporto,supervisor
+docente guda,professor
+docente guida,supervisor
+docente guida e coordinatore,coordinator
+docente guida e coordinatore del corso,coordinator
+docente guida e coordinatore del dottorato,coordinator
+docente guida e coordinatore del dottorato di ricerca,coordinator
+docente guida esterno,external supervisor
+docente guida interno,internal supervisor
+"docente guida, francia/directeur de thèse, france",director
+"docente guida, italia/directeur de thèse, italie",director
+docente guida-tutor,tutor
+docente relatore,supervisor
+docente responsabile,program director
+docente sostituto,professor
+docente supervisor,supervisor
+docente supervisore,supervisor
+docente supervisorre,supervisor
+docente tutor,tutor
+docente tutor e coordinatore di dottorato,coordinator
+docente tutore,tutor
+docente tutore e coordinatore del dottorato,coordinator
+docente-guida,supervisor
+docente-tutore,tutor
+docenti,professor
+docenti di riferimento,reference professor
+docenti di sostegno,professor
+docenti di supporto,support professor
+docenti esaminatori,supervisor
+docenti guida,supervisor
+docenti supervisori,supervisor
+docenti tutor,tutor
+docenti tutore,tutor
+docenti tutores,tutor
+docenti tutori,tutor
+doctoral advisor,advisor
+doctoral candidate,candidate
+doctoral committee,committee member
+doctoral coordinator,coordinator
+doctoral course coordinator,coordinator
+doctoral examination committee,committee
+doctoral program coordinator,coordinator
+doctoral program director,program director
+doctoral programme coordinator,coordinator
+doctoral school coordinator,coordinator
+doctoral school director,program director
+doctoral student,phd student
+doctoral studies co-ordinator,coordinator
+doctoral studies coordinator,coordinator
+doctoral supervisor,supervisor
+doctorande,phd student
+doctorant,contributor
+doctorate advisor,advisor
+doctorate co-ordinator,coordinator
+doctorate coordinator,coordinator
+doctorate coordinator and school president,coordinator
+doctorate course co-ordinator,coordinator
+doctorate course coordinator,coordinator
+doctorate course director,program director
+doctorate director,program director
+doctorate guide,contributor
+doctorate school director,program director
+doctorate student,phd student
+doctorate tutor,tutor
+doottoranda,contributor
+dos,program director
+dos francese,program director
+dos italiano,program director
+dotorando di ricerca,phd student
+dott.,doctor
+dott.nda,contributor
+dott.ssa,doctor
+dottoranda,contributor
+dottoranda 17. ciclo,phd student
+dottoranda di ricerca,phd student
+dottorando,contributor
+dottorando di ricerca,contributor
+dottorando di ricerca di,phd student
+dottorando0,phd student
+dottorano,phd student
+dottorano/a,phd student
+dottorato,contributor
+dottorato di ricerca,contributor
+dottore di ricerca,contributor
+dottoressa,contributor
+dottornada,phd student
+dottorndo,phd student
+dottotando,phd student
+dottotranda,phd student
+dottrando,phd student
+dottssa,doctor
+dotttorando,phd student
+dr. claudio semini (dynamic legged systems lab - istituto italiano di tecnologia) prof. darwin g. caldwell (advanced robotics department - istituto italiano di tecnologia) co-tutor,co-tutor
+délegué aux thèses,contributor
+earth sciences program chairman,program director
+"electronics department, télécom-bretagne, brest, france , tutors",tutor
+encadrants,supervisor
+encardeurs,supervisor
+erste gutachter,contributor
+erste(r) referent(in),referent
+esaminatore esterno,external examiner
+esaminatori,examiner
+esaminatori esterni,contributor
+esaminatrice,examiners
+eseguito presso,contributor
+esperti esterni,contributor
+esperto,contributor
+ess director,program director
+esterni,contributor
+european ph.d. co-supervisor,co-supervisor
+evaluators,evaluator
+eventuale correlatore (co-tutor),co-tutor
+eventuale correlatore co-tutor,co-tutor
+examinateur,contributor
+examinateurs,contributor
+examination commitee,contributor
+examination committee,committee
+examiner,examiner
+examiners,examiners
+examinerʼs,examiner
+ext. reviewers,referee
+external adivisor,contributor
+external advisor,advisor
+external advisors,advisor
+external co-supervisor,co-supervisor
+external cosupervisor,co-supervisor
+external evaluators,external evaluator
+external examiner,external examiner
+external examiners,external examiner
+external member,committee member
+external phd advisor,phd student
+external referee,external referee
+external referees,external referee
+external representative,contributor
+external reviewer,external referee
+external reviewers,external referee
+external supervisor,external supervisor
+external supervisors,external supervisor
+external supervisr,external supervisor
+external tutor,external tutor
+external tutor (insa de lyon),external tutor
+external tutors,external tutor
+extrenal advisor,advisor
+f. vigano’；coordinatore,coordinator
+faculty advisor,professor
+faculty mentors,institution
+faculty opponent,referee
+firm tutor,tutor
+first reader,referee
+first supervisor,supervisor
+foreign supervisor,supervisor
+foreign tutor,external tutor
+foreign tutor-first revisor,tutor
+french director,program director
+french principle adviser,advisor
+french scientific coordinator,coordinator
+french supervisor,supervisor
+french tutor,tutor
+gabriele corsani - co.tutor,tutor
+graduate advisor,advisor
+graduate civil engineer,contributor
+graduate group chair,program director
+graduate school coordinator,coordinator
+graduate student,phd student
+graduate supervisior,graduate supervisor
+gsk vaccines s.r.l. supervisor,supervisor
+gsk vaccines s.r.l. tutor,tutor
+guidance,supervisor
+guiding professor,professor
+günter figal (freiburg im breisgau),contributor
+head,program director
+head of department,program director
+head of doctorate programme,program director
+head of ph. d. board,program director
+head of ph. d. course,program director
+head of phd program,program director
+head of phd programm,program director
+head of phd programme,program director
+head of research,research director
+head of the doctoral course,program director
+head of the doctoral program,program director
+head of the doctoral programme,program director
+head of the doctoral school,program director
+head of the graduate school,program director
+head of the ph. d. course in chemical sciences,program director
+head of the ph. d. program,program director
+head of the ph. d. program in water and territory management engineering,program director
+head of the ph. d. programme in geotechnical engineering,program director
+head of the ph. d. programme in structural and geotecnical engineering,program director
+head of the ph.d. programme in geotechnical engineering,program director
+head of the ph.d. programme in water and territory management engineering,program director
+head of the phd course,program director
+head of the phd program,program director
+head of the phd programme in geotechnical engineering,contributor
+head of the research doctorate programme in geotechnical engineering,research director
+head of the school,program director
+head pf phd course,program director
+headmaster of the ph.d. school,program director
+headmaster of the phd. school,program director
+heads of the phd board,program director
+host supervisor,supervisor
+host tutor,tutor
+i coordinatori,coordinator
+i correlatori,supervisor
+i docenti di sostegno,professor
+i relatori,supervisor
+i supervisori,supervisor
+i tutor,tutor
+i tutori,tutor
+i tutors,tutor
+ibim cnr tutore,tutor
+ict doctorate school dean,institution
+ii advisor,advisor
+ii tutor,tutor
+iindustrial co-tutor,co-tutor
+il candidato,candidate
+il ccordinatore,contributor
+il ccordinatore del dottorato,contributor
+il co-tutor,co-tutor
+il co-tutore,co-tutor
+il controrelatore,co-examiner
+il cooordinatore,contributor
+il coordiantore del dottorato,coordinator
+il coordinatore,coordinator
+il coordinatore dei corsi di dottorato,coordinator
+il coordinatore dei corsi di dottorato e tutore,coordinator
+il coordinatore del 15. ciclo,coordinator
+il coordinatore del collegio dei docenti del dottorato di ricerca in ingegneria industriale,coordinator
+il coordinatore del collegio di dottorato,coordinator
+il coordinatore del collegio docenti,coordinator
+il coordinatore del corso,coordinator
+il coordinatore del corso di dottorato,coordinator
+il coordinatore del d.r.c.a.,coordinator
+il coordinatore del dottorato,coordinator
+il coordinatore del dottorato di ricerca,coordinator
+il coordinatore del dottorato di ricerca biologia cellulare biologia cellulare e dello sviluppo,coordinator
+il coordinatore del dottorato di ricerca in biologia e biotecnologie,coordinator
+il coordinatore del dottorato di ricerca in italianistica,coordinator
+il coordinatore del dottorato di ricerca in matematica,coordinator
+il coordinatore del dottorato di ricerca in statistica computazionale ed applicazioni,coordinator
+il coordinatore del dottorato di ricerca in tecnologie dell'informazione,coordinator
+il coordinatore del dottorato di ricerca tecnologie dell'informazione,coordinator
+il coordinatore del dottorato in scienze della terra,coordinator
+il coordinatore del drca,coordinator
+il coordinatore della scuola di dottorato,coordinator
+il coordinatore di dottorato,coordinator
+il coordinatore di ricerca,coordinator
+il coordinatore di ricerca in italianistica,coordinator
+il coordinatore e relatore,coordinator
+il coordinatore e tutor,coordinator
+il coordinatore scientifico,coordinator
+il coordintore,coordinator
+il cordinatore,contributor
+il correlatore,co-supervisor
+il cotutor,co-tutor
+il cotutore,co-tutor
+il decano del collegiodei docenti,professor
+il direttore della scuola,program director
+il direttore della scuola di dottorato,program director
+il direttore di ricerca,research director
+il docente coordinatore,coordinator
+il docente guida,supervisor
+il docente tutore,tutor
+il dottorando,phd student
+il dottorando di ricerca,phd student
+il presidente,president
+il presidente del corso,president
+il presidente del corso di dottorato,president
+il presidente della scuola di dottorato,president
+il referente,referent
+il referente scientifico,lead researcher
+il relatore,supervisor
+il supervisore,supervisor
+il supervisore della ricerca,supervisor
+il tutor,tutor
+il tutor del dottorando,tutor
+il tutore,tutor
+il tutore e coordinatore del dottorato,coordinator
+in collaboration with,contributor
+in collaborazione con,contributor
+in testa al front.,header info
+industrial co-tutor,co-tutor
+industrial relator,supervisor
+industrial supervisor,supervisor
+industrial supervisor stmicroelectronics,supervisor
+industrial tutor,company tutor
+internal advisor,advisor
+internal advisors,advisor
+internal co-supervisor,co-supervisor
+internal cosupervisor,co-supervisor
+internal examiner,examiner
+internal relator,internal supervisor
+internal supervisor,supervisor
+internal tutor,tutor
+international advisor,advisor
+international co-supervisor,co-supervisor
+international referee,referee
+international referees,referee
+international rewiers,international reviewer
+international scientific tutor,tutor
+international supervisor,internal supervisor
+internetional referees,referee
+internship tutor,tutor
+istituto superiore mario boella,institution
+italian advisor,advisor
+italian director,contributor
+italian principe adviser,advisor
+italian scientific coordinator,coordinator
+italian supervisor,supervisor
+italian supervisors,supervisor
+italian tutor,tutor
+italian tutors,tutor
+joint thesis advisor,advisor
+juri,contributor
+jury,committee member
+jury = commissione = committee,committee member
+jury de thèse,jury
+jury members,committee member
+kandidata,candidate
+koordinator/coordinatore del ciclo,coordinator
+la candidata,candidate
+la commissione,committee
+la coordinatrice,coordinator
+la dottoranda,phd student
+laboratory,contributor
+laureanda,graduating student
+lecturer,professor
+leden promotiecommissie,committee member
+lettore,contributor
+lettrice,contributor
+local supervisor,supervisor
+main advisor,advisor
+main co-supervisor,co-supervisor
+main supervisor,supervisor
+major advisor,advisor
+member du jury,committee member
+members of the dissertation committee,committee
+members of the examination board,committee member
+members of the final examination committee,committee member
+membre du jury,committee member
+membres du jury,jury
+membres du jury/membri della giuria,committee member
+membri commissione,committee member
+membri della commissione esterni,external committee member
+membri esterni,contributor
+membri giuria,jury member
+membro del collegio di dottorato,committee member
+membro della commissione,committee member
+membro interno,contributor
+mentor,contributor
+mentoring,contributor
+mentors,contributor
+national tutor,tutor
+nome del coordinatore del dottorato,coordinator
+nome del dottorando,phd student
+nome del relatore,supervisor
+nome del tutor,tutor
+nome del tutore,tutor
+not affiliated with the university,not affiliated with the university
+novartis supervisors,supervisor
+novartis v&d tutor,tutor
+nvd supervisor,supervisor
+opponent,referee
+ordinatore,coordinator
+orientador,contributor
+orientadora,contributor
+p. mancini. referee,referee
+p.h. d. coordinator,coordinator
+partner supervisors,supervisor
+per il coordinatore il decano,coordinator
+ph advisor,advisor
+ph coordinator,coordinator
+ph d candidate,candidate
+ph d co-ordinator,coordinator
+ph d coordinator,coordinator
+ph d course coordinator,coordinator
+ph d school supervisor,supervisor
+ph d student,phd student
+ph d supervisor,supervisor
+ph d tutor,tutor
+ph d. coordinator,coordinator
+ph. coordinator,coordinator
+ph. d candidate,candidate
+ph. d coordinator,coordinator
+ph. d student,phd student
+ph. d. .coordinator,coordinator
+ph. d. advisor,advisor
+ph. d. advisors,advisor
+ph. d. board director,program director
+ph. d. candidate,candidate
+ph. d. chief,contributor
+ph. d. co-ordinator,coordinator
+ph. d. co-tutor,co-tutor
+ph. d. committee,committee
+ph. d. coordinator,coordinator
+ph. d. course chairman,program director
+ph. d. course coordinator,coordinator
+ph. d. course coordinators,coordinator
+ph. d. course organizer,contributor
+ph. d. director,program director
+ph. d. director and supervisor,supervisor
+ph. d. mentor,contributor
+ph. d. panel,contributor
+ph. d. philosophiae doctor thesis,phd
+ph. d. program chairman,program director
+ph. d. program coordinator,coordinator
+ph. d. program director,program director
+ph. d. program in management engineering,contributor
+ph. d. program supervisor,supervisor
+ph. d. programme coordinator,coordinator
+ph. d. scholl director,program director
+ph. d. school coordinator,coordinator
+ph. d. school director,program director
+ph. d. school head,program director
+ph. d. student,phd student
+ph. d. supervisor,supervisor
+ph. d. supervisors,supervisor
+ph. d. thesis by,thesis info
+ph. d. thesis of,thesis info
+ph. d. thesis work by,thesis info
+ph. d. tutor,tutor
+ph.d advisor,advisor
+ph.d coordinator,coordinator
+ph.d course coordinator,coordinator
+ph.d course director,program director
+ph.d program coordinator,coordinator
+ph.d school director,program director
+ph.d tutor,tutor
+ph.d. activity coordinator,coordinator
+ph.d. advisor,advisor
+ph.d. bachelor,contributor
+ph.d. candidate,candidate
+ph.d. co-advisor,co-advisor
+ph.d. coordinator,coordinator
+ph.d. course co-ordinator,coordinator
+ph.d. course coordinator,coordinator
+ph.d. dean,contributor
+ph.d. director,program director
+ph.d. panel,contributor
+ph.d. program coordinator,coordinator
+ph.d. program director,program director
+ph.d. program supervisor,supervisor
+ph.d. programm coordinator,coordinator
+ph.d. school coordinator,coordinator
+ph.d. school director,program director
+ph.d. school head,contributor
+ph.d. schoolʼs director,program director
+ph.d. student,phd student
+ph.d. student.,phd student
+ph.d. supervisor,supervisor
+ph.d. supervisors,supervisor
+ph.d. thesis supervisor,supervisor
+ph.d. tutor,tutor
+ph.d. tutors,tutor
+ph.d.advisor,advisor
+phd,phd
+phd advisor,phd student
+phd advisors,advisor
+phd candidate,candidate
+phd candidato,candidate
+phd co-ordinator,coordinator
+phd co-tutor,co-tutor
+phd cooordinator,phd student
+phd coordimator,phd student
+phd coordinator,coordinator
+phd coordinatore del corso,coordinator
+phd course chairman,program director
+phd course coordinator,coordinator
+phd d. program coordinator,coordinator
+phd dean,phd student
+phd director,program director
+phd director and coordinator,coordinator
+phd external advisor,phd student
+phd president,president
+phd program chair,program director
+phd program coordinator,coordinator
+phd program director,program director
+phd program supervisor,supervisor
+phd programme director,program director
+phd school coordinator,coordinator
+phd school coordinator/director,coordinator
+phd school director,program director
+phd school director & coordinator,coordinator
+phd school headmaster,program director
+phd school master,phd student
+phd school masters,phd student
+phd student,phd student
+phd supervisor,supervisor
+phd supervisors,supervisor
+phd thesis committee,committee
+phd thesis school coordinator,coordinator
+phd thesis tutor,tutor
+phd tutor,tutor
+phd tutor [del primo elaborato,tutor
+phd tutor [del primo elaborato],tutor
+phd-coordinator,coordinator
+phd. coordinator,coordinator
+phd. dean,phd student
+phg. d. program coordinator,coordinator
+pier luigi aminti (tutori scientifici,tutor
+"politecnico di bari, facoltà di ingegneria, dipartimento di elettrotecnica ed elettronica",institution
+politecnico di milano,institution
+politecnico di torino,institution
+presentata da,candidate
+presentata dalla candidata,candidate
+presentatore,contributor
+presenting professor,professor
+preside del corso,contributor
+preside della scuola di dottorato,institution
+president,president
+president of doctoral programme,president
+president of ph. d.,president
+president of ph. d. course,president
+president of ph.d. school,president
+president of phd,president
+president of the doctorate course,president
+president of the doctorate school in chemistry,president
+president of the jury,president
+president of the ph.d. course,president
+president of the phd course,president
+president of the phd program,president
+president of the phd program course,president
+president of veterinary medicine phd school,president
+presidente,president
+presidente [del consiglio di dottorato,president
+presidente [del consiglio di dottorato],president
+presidente corso di dottorato,president
+presidente d'indirizzo,president
+presidente del collegio dei docenti,president
+presidente del consiglio del corso di dottorato,president
+presidente del consiglio di dottorato,president
+presidente del corso,president
+presidente del corso di dottorato,president
+presidente del corso di dottorato di ricerca,president
+presidente del corso di dottorato energetica elettrica e termica,president
+presidente del dottorato,president
+presidente del dottorato di ricerca,president
+presidente del dottorato di ricerca in economia aziendale,president
+presidente del dottorato di ricerca in neurobiologia e clinica dei disturbi affettivi,president
+presidente del dottorato di ricerca in neurobliolgia e clinica dei disturbi affettivi,president
+presidente del dottorato in scienze chimiche,president
+presidente del programma,president
+presidente del programma di dottorato,president
+presidente del programma di dottorato in ingegneria energetica elettrica e termica,president
+presidente del programma di economia aziendale,president
+presidente del programma di letterature straniere moderne,president
+presidente della commissione/président du jury,committee president
+presidente della scuola,president
+presidente della scuola di dottorato,president
+presidente di indirizzo,president
+presidente e direttore del corso,program director
+presidents,president
+presidents of the phd program,president
+primary advisor,advisor
+primary supervisor,supervisor
+primo relatore,supervisor
+primo supervisore,supervisor
+primo tutor,tutor
+primo tutore,tutor
+principal adviser,advisor
+principal advisor,advisor
+principal advisors,advisor
+principal supervisor,principal supervisor
+principle tutor,tutor
+prof,professor
+prof. fouad el haj hassan co-supervisor,co-supervisor
+profesioral advisors,advisor
+professional advisors,professor
+professioral advisors,professor
+professor,professor
+professore associato,associate professor
+professore massimo levrero presso l'istituto di ricerca,professor
+professore tutor,tutor
+professorial advisor,advisor
+professorial advisors,professorial advisor
+program coordinator,coordinator
+program director,program director
+program of study committee,committee member
+program of study coordinator,coordinator
+programme coordinator,coordinator
+promoter,promotor
+promotor,promotor
+promotor of ku leuven,contributor
+promotor of università di pisa,institution
+promotori,contributor
+promotors,promotor
+pré-rapporteurs esterni,external referee
+président du jury,committee member
+rapporteur,reporter
+rapporteur de thèse,referee
+rapporteurs,referee
+rapporteurs = esaminatori = examiners,referee
+rapporteurs/relatori,supervisor
+reader,referee
+realtore,supervisor
+reatore,supervisor
+reelatore,supervisor
+refeee,referee
+refeeres,reviewer
+referee,referee
+referee esterni,external referee
+referee esterno,external referee
+referees,referee
+referente,referent
+referente alla sorbonne,referent
+referente anpa,referent
+referente d'indirizzo,referent
+referente del curriculum,program director
+referente del curriculum di diritto commerciale,program director
+referente del curriculum in diritto internazionale,program director
+referente del curruculum,referent
+referente e coordinatore,coordinator
+referente esterno,referent
+referente esterno per l'applicazione sperimentale,referent
+referente estero,referent
+referente internazionale,referent
+referente progetto sperimentale,referent
+referente scientifico,lead researcher
+referenti,referent
+referenti aziendali,referent
+referenti interni,referent
+referée,referee
+reims. membre du jury,committee member
+rel.,contributor
+relarore,supervisor
+relater,supervisor
+relator,supervisor
+relator and coordinator,coordinator
+relatore,supervisor
+relatore (cea-saclay),supervisor
+relatore (politecnico di milano),supervisor
+relatore (turor),supervisor
+relatore (tutor),tutor
+relatore (école polytecnique paris),supervisor
+relatore 1.,supervisor
+relatore 2.,supervisor
+relatore = directeur de thèse,supervisor
+relatore accademico,supervisor
+relatore aggiunto,supervisor
+relatore all'istec-cnr,supervisor
+relatore aziendale,supervisor
+relatore chiarissimo,supervisor
+relatore co-tutela,supervisor
+relatore del dottorando,supervisor
+relatore della ricerca,supervisor
+relatore della tesi,supervisor
+relatore di tesi,supervisor
+relatore dottorato di ricerca,supervisor
+relatore e coordinatore,supervisor
+relatore e coordinatore del corso,coordinator
+relatore e coordinatore del corso di dottorato,coordinator
+relatore e coordinatore del dottorato,coordinator
+relatore e coordinatore del dottorato per l'istituto italiano di scienze umane,coordinator
+relatore e relatore,supervisor
+relatore e tutor,tutor
+relatore e tutore,tutor
+relatore esterno,supervisor
+relatore francese,supervisor
+relatore francese (tutor),tutor
+relatore i. e. coordinatore,supervisor
+relatore in co-tutela,supervisor
+relatore internazionale,internal supervisor
+relatore interno,internal supervisor
+relatore italiano,supervisor
+relatore italiano (tutor),tutor
+relatore italiano tutor,tutor
+relatore per l'università di potsdam,supervisor
+relatore tedesco tutor,tutor
+relatore tesi di dottorato,supervisor
+relatore tutor,tutor
+relatore universitario,supervisor
+relatore università di bielefeld,supervisor
+relatore università di pisa,supervisor
+relatore-supervisore,supervisor
+relatore-tutor,tutor
+relatore/cotutor,co-tutor
+relatore/supervisor,supervisor
+relatore/tutor,tutor
+relatore/tutore,supervisor
+relatores,supervisor
+relatori,supervisor
+relatori (tutors),tutor
+relatori = directeurs de thèse,supervisor
+relatori = thése dirigé par,supervisor
+relatori = tutors,tutor
+relatori del candidato,supervisor
+relatori della tesi di dottorato,supervisor
+relatori di tesi,supervisor
+relatori esterni,external supervisor
+relatori i chiarissimi professori,supervisor
+relatori interni,internal supervisor
+relatori scientifici internazionali,internal supervisor
+"relatori, directores de tesis",supervisor
+relatori-supervisors,supervisor
+relatori/directeurs de recherche,supervisor
+relatori/directeurs de thèse,supervisor
+relatori/rapporteurs,supervisor
+relatori/supervisors,supervisor
+relators,supervisor
+relatrice,supervisor
+relatrice della tesi,thesis info
+relatrici,supervisor
+reporters,reporter
+research advisor,advisor
+research doctor's thesis,thesis info
+research doctorate program coordinator,coordinator
+research head & co-tutor thesis advisor,tutor
+research supervisor,supervisor
+research supervisors,supervisor
+research tutor,tutor
+responsabile,program director
+responsabile aziendale,program director
+responsabile del dottorato,program director
+responsabile del laboratorio,program director
+responsabile del progetto,program director
+responsabile del progetto e tutor,tutor
+responsabile della ricerca,research director
+responsabile della scuola di dottorato,program director
+responsabile della tesi,program director
+responsabile di indirizzo,program director
+responsabile di ricerca,research director
+responsabile dottorati,program director
+responsabile dottorato di ricerca,research director
+responsabile e coordinatore del dottorato,coordinator
+responsabile per la sede di pavia,program director
+responsabile scientifico,program director
+responsabile scientifico (tutor),tutor
+responsabile scientifico inail,program director
+responsabile scientifico/supervisor,supervisor
+responsabile sede consorziata,program director
+responsabili della ricerca,contributor
+responsabili di tesi,contributor
+responsabili scientifici,contributor
+responsable de l'école doctorale,contributor
+responsable de la formation doctorale,contributor
+revesore,reviewer
+reviewed by,contributor
+reviewer,reviewer
+reviewer of dissertation,referee
+reviewers,reviewer
+revisor,contributor
+revisore,referee
+revisore della tesi,referee
+revisore esterno,external referee
+revisori,reviewer
+revisori esterni,external reviewer
+revisori esterni della tesi,thesis info
+reviwers,reviewer
+rewiewer,reviewer
+riccardo butini co-tutor,co-tutor
+ricerca svolta presso,contributor
+ricercatore di supporto,support researcher
+ricercatore guida,lead researcher
+ricercatori di supporto,contributor
+référee,referee
+school coordinator,coordinator
+school director,program director
+school director-coordinator,coordinator
+school head,program director
+school reporter,institution
+scientific adviser,advisor
+scientific advisor,advisor
+scientific co-tutor,co-tutor
+scientific committee,committee member
+scientific cotutors,co-tutor
+scientific director,program director
+scientific refees,scientific referee
+scientific referees,referee
+scientific supervisor,supervisor
+scientific supervisors,supervisor
+scientific tutor,tutor
+scientific tutors,tutor
+second dos,program director
+second reader,referee
+second referee,referee
+second revisor,contributor
+second supervisor,supervisor
+second supervisors,supervisor
+"seconda università degli studi di napoli, facoltà di medicina e chirurgia, istituto di medicina legale e delle assicurazioni (dir",institution
+secondo coordinatore,coordinator
+secondo docente tutor,tutor
+secondo relatore,supervisor
+secondo supervisore,supervisor
+secondo tutor,tutor
+secondo tutore,tutor
+secondo tutore e coordinatore del dottorato,coordinator
+sede,institution
+sede aministrativa,institution
+sede amministrativa,institution
+sede amministrativa (università di origine),institution
+sede amministrativa del dottorato,institution
+sede amministrativa dottorato,institution
+sede amministtrativa,institution
+sede ammistrativa,institution
+sede ammministrativa,institution
+sede ammnistrativa,institution
+sede associata,institution
+sede consociata,institution
+sede consorziarta,institution
+sede consorziata,institution
+sede consorziata di catania responsabile,institution
+sede consorziata e di esame,institution
+sede consorziate,consortium institution
+sede cosorziata,institution
+sede dell'attività di ricerca,institution
+sede dipartimentale di riferimento,reference department
+sede mministrativa,institution
+sede operativa,institution
+sede principale,institution
+sedi consorziate,institution
+sedi convenzionate,institution
+sedi cosorziate,institution
+sedi dell'attività di ricerca,institution
+sedi universitarie consorziate,institution
+segretario,committee coordinator
+sektionschef,section manager
+senior supervisor,supervisor
+sezione amministrativa,contributor
+signature from head of ph. d. committee,program director
+sostenue le 18 octobre 2010 devant la commission d'examen,contributor
+sous la direction de,program director
+sponsoring establishment,contributor
+sponsoring institution,contributor
+stefano bertocci cotutor,co-tutor
+storch hans,contributor
+student,phd student
+studente,phd student
+submitted to,contributor
+super visor,supervisor
+superisor,supervisor
+superviors,supervisor
+superviosre,supervisor
+supervised,supervisor
+supervised by,supervisor
+superviser/relatore,supervisor
+superviseurs,supervisor
+supervising professor,supervisor
+supervision,supervisor
+supervisione,supervisor
+supervisior,supervisor
+supervisiore,supervisor
+supervisoe,supervisor
+supervisor,supervisor
+supervisor (tutor),tutor
+supervisor alla uc berkeley,supervisor
+supervisor and coordinator,coordinator
+supervisor and ph.d. school coordinator,coordinator
+supervisor at host laboratory,supervisor
+supervisor by,supervisor
+supervisor chief,supervisor
+supervisor e coordinatore,coordinator
+supervisor e cordinatore,supervisor
+supervisor e tutor,tutor
+supervisor esterno,external supervisor
+supervisor external,external supervisor
+supervisor of dissertation,supervisor
+supervisor of doctoral program,supervisor
+supervisor of laboratory activity,supervisor
+supervisor of the doctoral program,supervisor
+supervisor of the ph. d. program,supervisor
+supervisor of the ph. d. programme,supervisor
+supervisor of the ph.d. program,supervisor
+supervisor of the phd program,supervisor
+supervisor of the thesis,supervisor
+supervisor s,supervisor
+supervisor/tutor,tutor
+supervisor[s],supervisor
+supervisore,supervisor
+supervisore (esterno),supervisor
+supervisore (interno),supervisor
+supervisore (tutore),tutor
+supervisore 2000-2004,supervisor
+supervisore afferente all'ateneo,supervisor
+supervisore al università degli studi della calabria,supervisor
+supervisore al école polytechinique fédérale de lausanne,supervisor
+supervisore all'estero (germania),supervisor
+supervisore del progetto,supervisor
+supervisore del progetto di ricerca,supervisor
+supervisore della tesi,supervisor
+supervisore di tesi,supervisor
+supervisore e coordinatore,coordinator
+supervisore e tutor ub,tutor
+supervisore e tutor unimi,tutor
+supervisore esterno,external supervisor
+supervisore estero,supervisor
+supervisore interno,internal supervisor
+supervisore italiano,supervisor
+supervisore nella sede amministrativa,supervisor
+supervisore nella sede di co-tutela,supervisor
+supervisore non afferente all'ateneo,supervisor not affiliated with the university
+supervisore scientifico della tesi di doctorat en sciences économiques,supervisor
+supervisore scientifico della tesi di dottorato in economia politica,supervisor
+supervisore tedesco,supervisor
+supervisore università di francoforte sul meno,supervisor
+supervisore università di padova,supervisor
+supervisore/coordinatore,coordinator
+supervisore/relatore,supervisor
+supervisore/tutor,tutor
+supervisori,supervisor
+supervisori 2004-2005,supervisor
+supervisori aziendali,supervisor
+supervisori della tesi,supervisor
+supervisori di tesi,supervisor
+supervisori esterni,external supervisor
+supervisori per gli aspetti illuminotecnici,supervisor
+supervisors,supervisor
+supervisors (e tutors),tutor
+supervisors in danimarca,supervisor
+supervisors in ge,supervisor
+supervisors of the phd thesis,supervisor
+supervisory,supervisor
+supervisory tutor,tutor
+supervisr,supervisor
+supevisore,supervisor
+supevisors,supervisor
+suprvisor,supervisor
+suprvisore,supervisor
+svolta presso,contributor
+swiss supervisor,supervisor
+technical stage tutor,tutor
+terzo docente tutor,tutor
+terzo relatore,supervisor
+terzo tutor,tutor
+tesi del dott.,thesis info
+tesi del dottorando,phd student
+tesi della dott.ssa,thesis info
+tesi della dottoranda,phd student
+tesi di,thesis info
+tesi di dottorato,thesis info
+tesi di dottorato del,thesis info
+tesi di dottorato del dott.,thesis info
+tesi di dottorato del dr.,thesis info
+tesi di dottorato della dott.ssa,thesis info
+tesi di dottorato della dr.ssa,thesis info
+tesi di dottorato di,thesis info
+tesi di dottorato di ricerca,thesis info
+tesi di dottorato di ricerca del dott.,thesis info
+tesi di dottorato di ricerca del dr,thesis info
+tesi di dottorato di ricerca di,thesis info
+tesi di dottorato presentata da,thesis info
+tesi diretta da/thése dirigée par supervisors,supervisor
+tesi dottorale,thesis info
+tesi per il conseguimento del titolo di dottore della ricerca della dott.ssa,thesis info
+tesi presentata da,thesis info
+tesi sperimentale di dottorato,thesis info
+tesi svolta presso,contributor
+tesista,thesis student
+the candidate,candidate
+the chair of doctoral program,program director
+the chair of the doctoral program,program director
+the coordinator,coordinator
+the director of the school,program director
+the research doctorate co-ordinator,coordinator
+the research doctorate supervisor,supervisor
+the research has been carried out in collaboration with,contributor
+these dirigee par,supervisor
+thesis advisor,advisor
+thesis advisor and tutor,tutor
+thesis advisors,advisor
+thesis co-advisor,co-advisor
+thesis co-supervisors,supervisor
+thesis codirector,co-director
+thesis commitee,contributor
+thesis commitee president,president
+thesis committee,committee member
+thesis coordinator,coordinator
+thesis cosupervisor,co-supervisor
+thesis director,program director
+thesis directors,program director
+thesis jury,jury
+thesis main supervisor,supervisor
+thesis of,thesis info
+thesis reader,referee
+thesis referee,referee
+thesis research advisors,advisor
+thesis reviewer,referee
+thesis reviewer senior researcher,referee
+thesis reviewers,referee
+thesis supervisor,supervisor
+thesis supervisors,supervisor
+thesis tutor,tutor
+third supervisor,supervisor
+thèse codirigée par,contributor
+thèse dirigée en cotutelle par mm = tesi di dottorato in cotutela diretta dai proff.,professor
+thèse dirigée par,contributor
+thèse dirigée par = relatori di dottorato = advisors,supervisor
+titolare del progetto,contributor
+to-tutors,tutor
+tudor[!,contributor
+tunisian tutor,tutor
+tuore,contributor
+turor,tutor
+turor del percorso formativo,contributor
+turore,tutor
+turtor,tutor
+tuteur,tutor
+tutire,contributor
+tuto,contributor
+tutor,tutor
+tutor & supervisor,tutor
+tutor (milan),tutor
+tutor (münchen),tutor
+tutor [del secondo elaborato,tutor
+tutor [del secondo elaborato],tutor
+tutor [dell'università degli studi] di messina,tutor
+tutor [dell'école des hautes études en sciences sociales di] parigi,tutor
+tutor [esterno,tutor
+tutor [esterno],external tutor
+tutor accademico,tutor
+tutor afferente all'ateneo,tutor affiliated with the university
+tutor afferente all'università paris 1 panthèon-sorbonne (in co-tutela),tutor
+tutor afferente alla ludwig-maximilians-universität münchen (cotutela di tesi),tutor
+tutor aggiunti,adjunct tutor
+tutor all'estero,tutor
+tutor and chief of phd course,tutor
+tutor and co-ordinator,coordinator
+tutor and coordinator,coordinator
+tutor and relatore,tutor
+tutor and supervisor,tutor
+tutor aziendale,tutor
+tutor aziendale comau,company tutor
+tutor aziendali,tutor
+tutor bergische universita̎t wuppertal,tutor
+tutor co-tutela,tutor
+tutor coordinatore,coordinator
+tutor cotutela,tutor
+tutor del candidato,tutor
+tutor del collegio,tutor
+tutor del corso,tutor
+tutor del corso di dottorato,tutor
+tutor del dottorando,tutor
+tutor del dottorato,tutor
+tutor del dottorato di ricerca,tutor
+tutor del percorso di ricerca,tutor
+tutor del programma di ricerca,tutor
+tutor dell'attività di ricerca,tutor
+tutor della dissertazione,tutor
+tutor della dottoranda,tutor
+tutor della ricerca,tutor
+tutor della ricerca e coordinatore del dottorato,coordinator
+tutor della tesi,tutor
+tutor della tesi di dottorato,tutor
+tutor di altro ateneo,tutor
+tutor di dottorato,tutor
+tutor di percorso,tutor
+tutor di percorso formativo,tutor
+tutor di ricerca,tutor
+tutor di tesi,tutor
+tutor di tesi in cotutela,tutor
+tutor didattico,tutor
+tutor dottorando,tutor
+tutor dottorato,tutor
+tutor e coordinatore,coordinator
+tutor e coordinatore del ciclo,coordinator
+tutor e coordinatore del ciclo di dottorato,coordinator
+tutor e coordinatore del collegio dei docenti,coordinator
+tutor e coordinatore del corso,coordinator
+tutor e coordinatore del dottorato,coordinator
+tutor e coorinatore,tutor and coordinator
+tutor e referente,tutor
+tutor e relatore,tutor
+tutor e supervisore,tutor
+tutor e supervisori,tutor
+tutor embl,tutor
+tutor enea,tutor
+tutor esterna,external tutor
+tutor esterni,tutor
+tutor esterni al dottorato,external tutor
+tutor esterno,tutor
+tutor esterno (co-advisor),external tutor/co-advisoy
+tutor esterno (cotutela),external tutor
+tutor esterno (gsk),external tutor
+tutor estero,tutor
+tutor for biological aspects,tutor
+tutor foreign partner,external tutor
+tutor francese,tutor
+tutor fuori sede,tutor
+tutor in cotutela,tutor
+tutor industriale,company tutor
+tutor industriali,company tutor
+tutor interno,tutor
+tutor itae,tutor
+tutor italiano,tutor
+tutor non afferente,tutor
+tutor non afferente all'ateneo,tutor not affiliated with the university
+tutor non afferenti all'ateneo,tutor not affiliated with the university
+tutor of ph. d. student,tutor
+tutor per la francia,tutor
+tutor per la tesi di dottorato,tutor
+tutor primo anno,tutor
+tutor principale,tutor
+tutor prof. arch.,tutor
+tutor professor,tutor
+tutor reina rocco (unicz - rreina@unicz.it) coordinatore,coordinator
+tutor relatore,tutor
+tutor scientifco,tutor
+tutor scientifici,tutor
+tutor scientifico,tutor
+tutor scientifico e relatore,tutor
+tutor spagnolo,tutor
+tutor straniero,tutor
+tutor sun,tutor
+tutor teorico,tutor
+tutor unical,tutor
+tutor unimi,tutor
+tutor universitario,tutor
+tutor università,tutor
+tutor università degli studi di milano,tutor
+tutor universität bern,tutor
+tutor université de paris 8.,tutor
+tutor université paris8,tutor
+tutor uvsqy,tutor
+"tutor, thesis supervisor",tutor
+tutor-relatore,tutor
+tutor. massimo de santo coordinatore,coordinator
+tutor/advisor,tutor
+tutor/coordinatore,coordinator
+tutor/directeur de thèse,tutor
+tutor/relator,tutor
+tutor/relatore,tutor
+tutor/relatore interno,tutor
+tutor/supervisor,tutor
+tutor/tutore,tutor
+tutor[s,tutor
+tutor[s],tutor
+tutoraggio,tutor
+tutordi percorso formativo,tutor
+tutore,tutor
+tutore & coordinatore,coordinator
+tutore = european ph.d. supervisor,tutor
+tutore = supervisor,tutor
+tutore a.m.a.,tutor
+tutore accademico,tutor
+tutore aggiunto,tutor
+tutore aziendale,company tutor
+tutore aziendale thales alenia space,company tutor
+tutore coordinatore,coordinator
+tutore del candidato,tutor
+tutore del corso di dottorato,tutor
+tutore del dotorando,tutor
+tutore del dottorando,tutor
+tutore del dottorato,tutor
+tutore del dottorato di ricerca,tutor
+tutore dell'allievo,tutor
+tutore della dottoranda,tutor
+tutore della ricerca,tutor
+tutore della tesi,tutor
+tutore di dottorato,tutor
+tutore e co-relatore,tutor
+tutore e coordinatore,coordinator
+tutore e coordinatore del dottorato,coordinator
+tutore e coorinatore,tutor
+tutore e correlatore,co-supervisor
+tutore e referente,tutor
+tutore e relatore,tutor
+tutore e relatore interno,tutor
+tutore e responsabile scientifico,tutor
+tutore esterno,external tutor
+tutore interno,tutor
+tutore membro del collegio docenti,tutor
+tutore nelle attività di ricerca,tutor
+tutore relatore,tutor
+tutore scientifico,tutor
+tutore scientifico/research tutor in charge,tutor
+tutore teorico,tutor
+tutore-coordinatore,coordinator
+tutore-relatore,tutor
+tutore-supervisore,tutor
+tutore/relatore,tutor
+tutore/supervisor,tutor
+tutoree coordinatore,tutor/coordinator
+tutores,tutor
+tutori,tutor
+tutori = tuteurs,tutor
+tutori accademici,tutor
+tutori aggiunti,tutor
+tutori aziendali,company tutor
+tutori aziendali gmpt-e,company tutor
+tutori del candidato,tutor
+tutori del dottorando,tutor
+tutori del dottorato,tutor
+tutori della dottoranda,tutor
+tutori della ricerca,tutor
+tutori esterni,external tutor
+tutori scientifici,tutor
+tutori sogin,tutor
+tutori università,tutor
+tutori/directeurs de thèse,tutor
+tutori/research supervisors,tutor
+tutors,tutor
+tutors del dottorato,tutor
+tutors esterni,external tutor
+tutors italiani,tutor
+tutors ue doctor europaeus,tutor
+tutors/directeurs,tutor
+tutors/directeurs de thèse,tutor
+tutors/directeurs des recherches,tutor
+tutote,tutor
+tutrice,tutor
+tutrice della tesi,tutor
+tutur,coordinator
+uk advisor,advisor
+uk supervisor,supervisor
+under the supervision of,supervisor
+universitat politècnica de valència tutor,tutor
+university supervisor,supervisor
+university tutor,tutor
+università cattolica s. cuore istituto di ginecologia ed ostetricia direttore,program director
+università consorziata,institution
+università consorziate,institution
+università convenzionate,institution
+università d'accoglienza,institution
+università degli studi consorziate,institution
+università degli studi de l'aquila,institution
+università degli studi di ancona,institution
+università degli studi di bologna firenze e perugia,institution
+università degli studi di cagliari,institution
+università degli studi di firenze,institution
+università degli studi di l'aquila dipartimento di medicina sperimentale,institution
+università degli studi di milano-bicocca dipartimento di psicologia,institution
+università degli studi di napoli,institution
+università degli studi di palermo,institution
+università degli studi di parma,institution
+università degli studi di pavia,institution
+università degli studi di roma la sapienza clinica ostetrica e ginecologica iii (direttore,program director
+università degli studi di roma la sapienza dipartimento di medicina sperimentale e patologia direttore,program director
+"università degli studi di roma la sapienza, dipartimento di scienze chirurgiche e tecnologie mediche applicate, direttore",program director
+università degli studi di siena,institution
+università degli studi di siena (sede arezzo) dipartimento [i. e. dottorato di ricerca in] letteratura e comunicazione,institution
+università degli studi di siena istituto di scienze dermatologiche direttore,program director
+università degli studi di torino,institution
+università degli studi di trieste,institution
+"università degli studi di trieste, dip.to scienze cliniche morfologiche e tecnologiche, u. c. o. clinica medica generale, direttore",program director
+università degli studi di udine,institution
+università degli studi di verona,institution
+"università degli studi di verona, sedi consorziate",consortium institution
+università degli studi g,institution
+"università degli studi g. d'annunzio, chieti, dipartimento di scienze storia dell'architettura e restauro",institution
+università del sacro cuore di milano (sede amministrativa,institution
+"università di pavia, facoltà di scienze matematiche, fisiche e naturali, dipartimento di chimica organica direttore",program director
+"università di pisa, facoltà di medicina e chirurgia, scuola di dottorato in scienze chirurgiche, anestesiologiche e dell'emergenza",institution
+"université aix-marseille, campus scientifique de saint jérôme, umr 7371 ism2, école doctorale chimie molèculaire",institution
+validatori,validator
+validatori esterni,contributor
+valitatori,evaluator
+valitatori esterni,contributor
+valotatori,evaluator
+valotatori esterni,contributor
+valuatori,evaluator
+valuatori esterni,contributor
+valutatatori,evaluator
+valutatatori esterni,contributor
+valutatore,evaluator
+valutatore estereno,external evaluator
+valutatore esterno,external evaluator
+valutatore interno,contributor
+valutatori,evaluator
+valutatori esame finale,contributor
+valutatori esteni,external evaluator
+valutatori estereni,external evaluator
+valutatori esteri,contributor
+valutatori esterni,external evaluator
+valutatori esterni (external examiners),external examiner
+valutatori esterni (rapporteurs),reporter
+valutatori esterni (referee),external referee
+valutatori esterno,contributor
+valutatori eterni,contributor
+valutatori interni,contributor
+valutatoti,valuator
+valutatoti esterni,contributor
+valutatrice,evaluator
+valutatrici,evaluator
+valutatrici esterne,external evaluator
+valutatriuce,evaluator
+valutetori,evaluator
+valutetori esterni,external evaluator
+vice coordinatore,coordinator
+vice direttore della scuola,program director
+vice-coordinatore,coordinator
+vice-coordinatore del dottorato,coordinator
+vice-direttore,program director
+vice-direttore della scuola,program director
+vice-direttore della scuola stms,program director
+vicedirettore,co-director
+vicedirettore della scuola,program director
+visore,contributor
+with the collaboration of,collaborator
+zweite gutachter,contributor
+zweite(r) referent(in),referent
